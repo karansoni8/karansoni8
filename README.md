@@ -4,7 +4,7 @@ I’m building hands-on SOC projects focused on **endpoint telemetry → SIEM de
 
 ### Featured project
 **SOC Detection Lab (Elastic SIEM + Fleet + Sysmon)**  
-Repo: https://github.com/karansoni8/soc-lab-elastic-sysmon
+Repo : https://github.com/karansoni8/soc-lab-elastic-sysmon
 
 What I built:
 - Windows Sysmon telemetry shipped via Elastic Agent + Fleet
@@ -14,4 +14,4 @@ What I built:
 
 Tech: Elastic Stack, Kibana Security, Fleet, Sysmon, Windows, Linux, KQL
 
-Contact: (add email or LinkedIn)
+LinkedIn : https://www.linkedin.com/in/karan-soni-4b56a11b4/
