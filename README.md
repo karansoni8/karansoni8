@@ -15,3 +15,7 @@ What I built:
 Tech: Elastic Stack, Kibana Security, Fleet, Sysmon, Windows, Linux, KQL
 
 LinkedIn : https://www.linkedin.com/in/karan-soni-4b56a11b4/
+
+![Elastic](https://img.shields.io/badge/Elastic-Stack-blue)
+![Sysmon](https://img.shields.io/badge/Sysmon-Detection-orange)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blueviolet)
